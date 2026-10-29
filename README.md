@@ -168,5 +168,5 @@ A IA (Claude) foi usada para explorar problemas possíveis, rascunhar hipóteses
 ## Entregáveis
 
 - Parte Teórica: [link do documento]
-- Vídeo pitch: [link do vídeo]
+- Vídeo pitch: https://youtu.be/WxexW5vxaTU
 - Evidências: [`/evidencias`](./evidencias)
