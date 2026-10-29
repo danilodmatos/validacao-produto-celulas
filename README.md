@@ -100,19 +100,16 @@ Respostas anonimizadas (Líder 1 a 8, na ordem de chegada). A planilha original 
 
 **Prints das evidências:**
 
-![Nota de facilidade em acompanhar os membros](./evidencias/11-resumo-nota-facilidade.png)
+![Planilha de respostas (parte 1)](./evidencias/01-planilha-respostas-parte1.jpg)
 
-![Planilha de respostas (parte 1)](./evidencias/01-planilha-respostas-parte1.png)
-
-![Planilha de respostas (parte 2)](./evidencias/02-planilha-respostas-parte2.png)
+![Planilha de respostas (parte 2)](./evidencias/02-planilha-respostas-parte2.jpg)
 
 | Arquivo | O que mostra |
 |---|---|
-| [`01-planilha-respostas-parte1.png`](./evidencias/01-planilha-respostas-parte1.png) e [`02-planilha-respostas-parte2.png`](./evidencias/02-planilha-respostas-parte2.png) | Planilha original com as 9 respostas e seus horários |
-| [`03-formulario-parte1.png`](./evidencias/03-formulario-parte1.png) a [`05-formulario-parte3.png`](./evidencias/05-formulario-parte3.png) | Perguntas do formulário aplicado |
-| [`06-resumo-perfil.png`](./evidencias/06-resumo-perfil.png) e [`07-resumo-acompanhamento.png`](./evidencias/07-resumo-acompanhamento.png) | Resumo automático do Google Forms |
-| [`08-envio-lider-a.png`](./evidencias/08-envio-lider-a.png) a [`10-envio-lider-c.png`](./evidencias/10-envio-lider-c.png) | Envio individual do formulário pelo WhatsApp (nomes ocultados) |
-| [`11-resumo-nota-facilidade.png`](./evidencias/11-resumo-nota-facilidade.png) | Distribuição das notas de facilidade (1 a 5) |
+| [`01-planilha-respostas-parte1.jpg`](./evidencias/01-planilha-respostas-parte1.jpg) e [`02-planilha-respostas-parte2.jpg`](./evidencias/02-planilha-respostas-parte2.jpg) | Planilha original com as 9 respostas e seus horários |
+| [`03-formulario-parte1.jpg`](./evidencias/03-formulario-parte1.jpg) a [`05-formulario-parte3.jpg`](./evidencias/05-formulario-parte3.jpg) | Perguntas do formulário aplicado |
+| [`06-resumo-perfil.jpg`](./evidencias/06-resumo-perfil.jpg) e [`07-resumo-acompanhamento.jpg`](./evidencias/07-resumo-acompanhamento.jpg) | Resumo automático do Google Forms |
+| [`08-envio-lider-a.jpeg`](./evidencias/08-envio-lider-a.jpeg) a [`10-envio-lider-c.jpeg`](./evidencias/10-envio-lider-c.jpeg) | Envio individual do formulário pelo WhatsApp (nomes ocultados) |
 
 ## 6. Síntese dos padrões
 
