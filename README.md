@@ -167,6 +167,6 @@ A IA (Claude) foi usada para explorar problemas possíveis, rascunhar hipóteses
 
 ## Entregáveis
 
-- Parte Teórica: [link do documento]
+- Parte Teórica: https://github.com/danilodmatos/validacao-produto-celulas/blob/main/Validando%20um%20Produto%20Digital%20com%20IA%20e%20M%C3%A9todos%20%C3%81geis.pdf
 - Vídeo pitch: https://youtu.be/WxexW5vxaTU
 - Evidências: [`/evidencias`](./evidencias)
